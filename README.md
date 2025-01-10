@@ -1,8 +1,10 @@
 # ultramarine-fastfetch-rice
 Fastfetch rice for Ultramarine. 
 Recommend using a Nerd Font. In the example, FiraCode Nerd Font is being used.
-Some terminals, especially GTK based terminals do not support images well in FastFetch. I have set the logo-type to auto, as a failback. The logo is not as crisp on those terminals.
-Terminals like Kitty, Wezterm, and Konsole have been tested to work.
+For clear image, this uses the kitty image protocol.
+Know to work on: kitty, konsole, wezterm
+Lower Graphics on: Gnome Terminal, Ptyxis, Alacritty
+I have set the logo-type to auto, as a failback. The logo is not as crisp on those terminals.
 
 ![example](https://github.com/user-attachments/assets/c6f165de-54ee-4e1c-bbc3-3d0d8cd0308b)
 
