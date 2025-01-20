@@ -4,7 +4,7 @@ Fastfetch rice for Ultramarine.
 Recommend using a Nerd Font. In the example, FiraCode Nerd Font is being used.
 
 For clear image, this uses the kitty image protocol. 
-Know to work on: kitty, konsole, wezterm
+Known to work on: kitty, konsole, wezterm
 Uses auto mode on: Gnome Terminal, Ptyxis, Alacritty
 
 I have set the logo-type to auto, as a failback. The logo is not as crisp on those terminals.
